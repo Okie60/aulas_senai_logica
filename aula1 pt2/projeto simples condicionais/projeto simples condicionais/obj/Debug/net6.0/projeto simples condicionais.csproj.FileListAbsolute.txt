@@ -1,0 +1,15 @@
+C:\programations\C#\projeto simples condicionais\projeto simples condicionais\bin\Debug\net6.0\projeto simples condicionais.exe
+C:\programations\C#\projeto simples condicionais\projeto simples condicionais\bin\Debug\net6.0\projeto simples condicionais.deps.json
+C:\programations\C#\projeto simples condicionais\projeto simples condicionais\bin\Debug\net6.0\projeto simples condicionais.runtimeconfig.json
+C:\programations\C#\projeto simples condicionais\projeto simples condicionais\bin\Debug\net6.0\projeto simples condicionais.dll
+C:\programations\C#\projeto simples condicionais\projeto simples condicionais\bin\Debug\net6.0\projeto simples condicionais.pdb
+C:\programations\C#\projeto simples condicionais\projeto simples condicionais\obj\Debug\net6.0\projeto simples condicionais.csproj.AssemblyReference.cache
+C:\programations\C#\projeto simples condicionais\projeto simples condicionais\obj\Debug\net6.0\projeto simples condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\programations\C#\projeto simples condicionais\projeto simples condicionais\obj\Debug\net6.0\projeto simples condicionais.AssemblyInfoInputs.cache
+C:\programations\C#\projeto simples condicionais\projeto simples condicionais\obj\Debug\net6.0\projeto simples condicionais.AssemblyInfo.cs
+C:\programations\C#\projeto simples condicionais\projeto simples condicionais\obj\Debug\net6.0\projeto simples condicionais.csproj.CoreCompileInputs.cache
+C:\programations\C#\projeto simples condicionais\projeto simples condicionais\obj\Debug\net6.0\projeto simples condicionais.dll
+C:\programations\C#\projeto simples condicionais\projeto simples condicionais\obj\Debug\net6.0\refint\projeto simples condicionais.dll
+C:\programations\C#\projeto simples condicionais\projeto simples condicionais\obj\Debug\net6.0\projeto simples condicionais.pdb
+C:\programations\C#\projeto simples condicionais\projeto simples condicionais\obj\Debug\net6.0\projeto simples condicionais.genruntimeconfig.cache
+C:\programations\C#\projeto simples condicionais\projeto simples condicionais\obj\Debug\net6.0\ref\projeto simples condicionais.dll
