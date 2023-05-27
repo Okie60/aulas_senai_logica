@@ -1,0 +1,10 @@
+﻿string nome_empresa;
+int funcionarios, salario, gasto_funcionarios;
+Console.WriteLine("Qual o nome da empresa: ");
+nome_empresa = Console.ReadLine();
+Console.WriteLine("Qual o número de funcionarios da empresa: ");
+funcionarios = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Qual o sálario dos funcionarios da empresa: ");
+salario = Convert.ToInt32(Console.ReadLine());
+gasto_funcionarios = funcionarios * salario;
+Console.WriteLine("nome empresa: " + nome_empresa + "\nnumero de funcionarios: " + funcionarios + "\nsálario mensal(percapta): " + salario + "\ngasto total: " + gasto_funcionarios);
