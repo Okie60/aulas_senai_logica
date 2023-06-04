@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "verificador notas", "verificador notas\verificador notas.csproj", "{2AABD96C-CCB3-4EF6-8376-B2859EA40E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AABD96C-CCB3-4EF6-8376-B2859EA40E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AABD96C-CCB3-4EF6-8376-B2859EA40E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AABD96C-CCB3-4EF6-8376-B2859EA40E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AABD96C-CCB3-4EF6-8376-B2859EA40E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {293839EE-42B4-4678-AA4D-2E93B341C0E0}
+	EndGlobalSection
+EndGlobal
