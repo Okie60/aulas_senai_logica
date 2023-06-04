@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "converter MPH em KMH", "converter MPH em KMH\converter MPH em KMH.csproj", "{C842DE57-D58E-4FA7-AAB3-47A939AFDCF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C842DE57-D58E-4FA7-AAB3-47A939AFDCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C842DE57-D58E-4FA7-AAB3-47A939AFDCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C842DE57-D58E-4FA7-AAB3-47A939AFDCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C842DE57-D58E-4FA7-AAB3-47A939AFDCF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {191F18F9-573C-4A40-A00E-D6C8C9935F69}
+	EndGlobalSection
+EndGlobal
