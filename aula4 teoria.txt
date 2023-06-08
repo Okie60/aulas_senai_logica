@@ -1,0 +1,19 @@
+laços de repetição:
+for - condição para executar o bloco(multipla)
+for (int i=0  //valor da váriavel; i<=10 //condição lógica; i++ //incrementa)
+{
+	instruçao
+}
+^checa de 0 a 10
+;
+
+while - condição única para testar
+while(var!=x){
+	instrução
+};
+
+foreach - usado para interagir/percorrer por listas(Arrays, coleções)
+foreach(var item in collection/array)
+{
+	instrução
+};
