@@ -1,0 +1,61 @@
+CRUD - Create, Read, Update, Delete;
+
+Lista - classe de C#, fortemente tipada, que tem indicie;
+como criar?
+lista com capacidade padrão:
+list<int16> list = new List<int16>();
+
+capacidade 5:
+<string>authors = new List<string>(5);
+string[]animals = {"Cow","Camel","Elephant"};
+<string>animalList = new List<string>();
+
+C
+	como adicionar elementos?
+	Com o método add adiciona-se um elemento a list:
+	list<int> numberList = new list<int>();
+	numberList.add(32);
+
+R
+	como ler uma coleção?
+	writeLine(lista[]);
+
+	para posição especifica:
+	writeLine(lista[2]);
+
+	número de elementos da coleção:
+	writeLine(lista.count);
+
+
+	capacidade da lista:
+	writeLine(lista.capacity);
+
+
+D
+	como remover elementos especificos:
+	lista.remove(número);
+	foreach...
+
+	como remover elemento em posição especifica:
+	lista.removeat(2);
+	foreach...
+
+	como remover um conjunto de itens da lista:
+	lista.removeRange(3,2);
+	foreach...
+
+
+	como remover todos os elementos da lista:
+	lista.clear();
+	foreach...
+
+como inserir elementos em uma posição especifica:
+lista.insert(posição, número);
+foreach...
+
+como encontrar um elemento em uma lista:
+int idx = lista.indexof(numero);
+
+para ordenar lista:
+lista.sort();A a Z
+lista.reverse();Z a AS
