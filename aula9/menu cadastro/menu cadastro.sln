@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "menu cadastro", "menu cadastro\menu cadastro.csproj", "{4F35925B-C619-47A5-A4DA-EC5A49CD4899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F35925B-C619-47A5-A4DA-EC5A49CD4899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F35925B-C619-47A5-A4DA-EC5A49CD4899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F35925B-C619-47A5-A4DA-EC5A49CD4899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F35925B-C619-47A5-A4DA-EC5A49CD4899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E347B52E-520A-4B19-9081-E0AF45B82180}
+	EndGlobalSection
+EndGlobal
