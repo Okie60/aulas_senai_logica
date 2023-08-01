@@ -1,0 +1,25 @@
+segunda aula perto do terminal
+chegar antes das 13:15
+
+conteúdo teórico
+
+--  métodos  --
+blóco de código com determinadas instruções.
+tipo state machine
+
+
+como é construido?
+
+passa-se o nome do próprio;
+entre parenteses e separado por vírgula;
+parenteses vazios idicam q requer parâmetros;
+
+
+tipos de metodo
+
+public - acesso publico;
+protected - acesso limitado a classes;
+internal - acesso limitado ao conjunto atual;
+protected internal - acesso limitado ao conjunto atual ou tipos de classes q contém;
+private - acesso limitado não pode ser acessado;
+
