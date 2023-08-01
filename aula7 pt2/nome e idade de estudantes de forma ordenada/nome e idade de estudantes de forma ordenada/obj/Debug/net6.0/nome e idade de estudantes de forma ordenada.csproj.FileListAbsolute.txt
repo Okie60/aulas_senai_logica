@@ -1,0 +1,15 @@
+C:\programations\C#\curso senai\aula7\nome e idade de estudantes de forma ordenada\nome e idade de estudantes de forma ordenada\bin\Debug\net6.0\nome e idade de estudantes de forma ordenada.exe
+C:\programations\C#\curso senai\aula7\nome e idade de estudantes de forma ordenada\nome e idade de estudantes de forma ordenada\bin\Debug\net6.0\nome e idade de estudantes de forma ordenada.deps.json
+C:\programations\C#\curso senai\aula7\nome e idade de estudantes de forma ordenada\nome e idade de estudantes de forma ordenada\bin\Debug\net6.0\nome e idade de estudantes de forma ordenada.runtimeconfig.json
+C:\programations\C#\curso senai\aula7\nome e idade de estudantes de forma ordenada\nome e idade de estudantes de forma ordenada\bin\Debug\net6.0\nome e idade de estudantes de forma ordenada.dll
+C:\programations\C#\curso senai\aula7\nome e idade de estudantes de forma ordenada\nome e idade de estudantes de forma ordenada\bin\Debug\net6.0\nome e idade de estudantes de forma ordenada.pdb
+C:\programations\C#\curso senai\aula7\nome e idade de estudantes de forma ordenada\nome e idade de estudantes de forma ordenada\obj\Debug\net6.0\nome e idade de estudantes de forma ordenada.csproj.AssemblyReference.cache
+C:\programations\C#\curso senai\aula7\nome e idade de estudantes de forma ordenada\nome e idade de estudantes de forma ordenada\obj\Debug\net6.0\nome e idade de estudantes de forma ordenada.GeneratedMSBuildEditorConfig.editorconfig
+C:\programations\C#\curso senai\aula7\nome e idade de estudantes de forma ordenada\nome e idade de estudantes de forma ordenada\obj\Debug\net6.0\nome e idade de estudantes de forma ordenada.AssemblyInfoInputs.cache
+C:\programations\C#\curso senai\aula7\nome e idade de estudantes de forma ordenada\nome e idade de estudantes de forma ordenada\obj\Debug\net6.0\nome e idade de estudantes de forma ordenada.AssemblyInfo.cs
+C:\programations\C#\curso senai\aula7\nome e idade de estudantes de forma ordenada\nome e idade de estudantes de forma ordenada\obj\Debug\net6.0\nome e idade de estudantes de forma ordenada.csproj.CoreCompileInputs.cache
+C:\programations\C#\curso senai\aula7\nome e idade de estudantes de forma ordenada\nome e idade de estudantes de forma ordenada\obj\Debug\net6.0\nome e idade de estudantes de forma ordenada.dll
+C:\programations\C#\curso senai\aula7\nome e idade de estudantes de forma ordenada\nome e idade de estudantes de forma ordenada\obj\Debug\net6.0\refint\nome e idade de estudantes de forma ordenada.dll
+C:\programations\C#\curso senai\aula7\nome e idade de estudantes de forma ordenada\nome e idade de estudantes de forma ordenada\obj\Debug\net6.0\nome e idade de estudantes de forma ordenada.pdb
+C:\programations\C#\curso senai\aula7\nome e idade de estudantes de forma ordenada\nome e idade de estudantes de forma ordenada\obj\Debug\net6.0\nome e idade de estudantes de forma ordenada.genruntimeconfig.cache
+C:\programations\C#\curso senai\aula7\nome e idade de estudantes de forma ordenada\nome e idade de estudantes de forma ordenada\obj\Debug\net6.0\ref\nome e idade de estudantes de forma ordenada.dll
